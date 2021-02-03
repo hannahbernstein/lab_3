@@ -1,6 +1,6 @@
 Hannah Bernstein
-Nicolas Conlin \n
-Harrison Garber
+Nicolas Conlin
+Harrison Garber - Ta Help
 Jordan Zane
 
 TestForBranching
