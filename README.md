@@ -1,3 +1,4 @@
 Hannah Bernstein
-Nicolas Conlin
+Nicolas Conlin \n
+Harrison Garber
 
