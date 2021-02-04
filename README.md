@@ -1,6 +1,7 @@
 Hannah Bernstein
-Nicolas Conlin \n
+Nicolas Conlin
 Harrison Garber
 Jordan Zane
+
 
 TestForBranching
