@@ -1,5 +1,5 @@
 Hannah Bernstein
-Nicolas Conlin
+Nicolas Conlin -
 Harrison Garber - Ta Help
 Jordan Zane
 
