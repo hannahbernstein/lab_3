@@ -1,8 +1,8 @@
-
 Project Team Members:
-Hannah Bernstein
+
+Hannah Bernstein 5
 Nicolas Conlin
 Harrison Garber
-Jordan Zane
-Nicolas Conlin Review
-Harrison Garber Reviewed this
+Jordan Zane ..
+
+Nicolas Conlin Edit 
